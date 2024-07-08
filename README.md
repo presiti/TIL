@@ -2,8 +2,8 @@
 This repository is writing what I learned today. Start with the goal of constantly writing every day.  
 오늘 내가 무엇을 배웠는지 적는 곳입니다. 매일 꾸준히 쓰는 것을 목표로 하고 있습니다.  
   
-It organizes the characteristics and culture of a language or field, such as how the language works, not the grammar of a particular language.  
-특정 언어의 문법이 아닌 언어의 작동 원리와 같이 언어나 분야의 특성과 문화를 정리합니다.
+Rather than focusing on the grammar of a particular language, it captures the way language works, the nature and culture of IT and technology in a way that is very easy and intuitive to understand.  
+특정 언어의 문법보다는 언어가 작동하는 방식, IT분야와 기술의 본질과 문화를 매우 쉽고 직관적으로 이해할 수 있는 방식으로 정리해요.
   
 > [!Important]
 > Everyone who passes by, please press the star mark to cheer me on!!  
