@@ -1,4 +1,6 @@
 # 용어
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+
 ## 표현식과 문장
 * 표현식: 값을 만들어 내는 간단한 코드  
   

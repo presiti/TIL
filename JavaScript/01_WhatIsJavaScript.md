@@ -1,5 +1,6 @@
 # JavaScript란?
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+
 프로그래밍 언어 중 스크립트 언어로 프로그램인 웹 브라우저에서 사용하기 위해서 만들어졌어요. HTML, CSS와 함께 웹을 구성하는 요소 중 하나로 HTML이 웹 페이지의 뼈대를 담당하고 CSS가 외관을 담당하면 JavaScript는 이들을 생동감을 불어넣어줍니다. 
   
 초기의 웹 페이지는 지금의 웹 페이지와 달리 책의 페이지처럼 주로 고정된 구성으로 정보를 표시했어요. 이러한 웹 페이지를 동적으로 표현하기 위해서 JavaScript가 탄생하게 되었으며 웹 브라우저 측 기술로서 등장했어요. JavaScript를 사용하면  사용자의 상호 작용에 응답해 웹 페이지의 구성을 변경할 수 있어요. 예를 들어 웹페이지에서 이미지 슬라이드쇼, 클릭하면 표시되는 드롭 다운 메뉴 등 동적인 변화를 적용하여 생동감을 정적인 웹페이지에 불어넣는 거죠.
